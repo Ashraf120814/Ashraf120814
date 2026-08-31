@@ -1,16 +1,131 @@
-## Hi there 👋
+# 👋 Hey, I'm Mohammad Ashraf
 
-<!--
-**Ashraf120814/Ashraf120814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Developer | 🤖 AI & Automation Enthusiast | 🚀 Web Developer
 
-Here are some ideas to get you started:
+I build **modern websites, web applications, APIs, and AI-powered automations** that turn ideas into real digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on **Full-Stack Development, React, Node.js, Python, Generative AI, SQL, and n8n automation.**
+
+---
+
+## 🚀 About Me
+
+* 💻 Full-Stack / Web Developer
+* ⚛️ Building with **React, JavaScript, Node.js & Python**
+* 🤖 Exploring **Generative AI & AI Automation**
+* 🔗 Creating workflows with **n8n**
+* 🗄️ Working with **SQL & APIs**
+* 🌐 Building websites for businesses and startups
+* 🎯 Focused on creating practical, scalable digital solutions
+* 📚 Always learning and improving
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### Backend & Tools
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+### AI & Automation
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 💎 LUSTRA — Fine Jewellery E-Commerce
+
+A premium jewellery e-commerce experience featuring a modern luxury interface and responsive design.
+
+🔗 **Live Demo:**
+https://ashraf120814.github.io/PROJECT-ECOM/
+
+---
+
+### 🏠 Real Estate Website
+
+A modern responsive real-estate website designed to showcase properties and provide a professional customer experience.
+
+🔗 **Live Demo:**
+https://ashraf120814.github.io/Real-Estate-1/
+
+---
+
+### 🌐 Web Development Projects
+
+A collection of responsive websites and experiments built while improving my frontend and full-stack development skills.
+
+🔗 **Portfolio:**
+https://ashraf120814.github.io/My-Portfolio/
+
+---
+
+## 📊 GitHub Stats
+
+![Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashraf120814\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashraf120814\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashraf120814\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 📈 Contribution Graph
+
+![Ashraf's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashraf120814\&theme=tokyo-night\&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+💼 **Portfolio:**
+https://ashraf120814.github.io/My-Portfolio/
+
+💻 **GitHub:**
+https://github.com/Ashraf120814
+
+📧 **Email:**
+mohammadashraf121408@gmail.com
+
+---
+
+## 💡 What I'm Currently Working On
+
+```text
+🚀 Full-Stack Web Development
+⚛️ React & Node.js
+🤖 Generative AI
+🔗 n8n Automation
+🗄️ SQL & APIs
+🌐 Building real-world web projects
+```
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something amazing together. 🚀**
