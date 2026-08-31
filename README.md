@@ -1,3 +1,14 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:8B0000&height=200&section=header&text=Mohammad%20Ashraf&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=18" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Python;Generative+AI+%7C+n8n+Automation;Building+Digital+Experiences;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" />
+
+</div>
 # 👋 Hey, I'm Mohammad Ashraf
 
 ### 💻 Full-Stack Developer | 🤖 AI & Automation Enthusiast | 🚀 Web Developer
@@ -126,6 +137,17 @@ mohammadashraf121408@gmail.com
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<div align="center">
 
-**Let's build something amazing together. 🚀**
+### 🚀 Building. Learning. Creating.
+
+*"Code is not just about solving problems — it's about creating possibilities."*
+
+⭐ If you like my work, consider giving my repositories a star!
+
+</div>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8B0000&style=for-the-badge" />
+
+</div>
