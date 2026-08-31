@@ -103,6 +103,18 @@ https://ashraf120814.github.io/My-Portfolio/
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ashraf120814\&theme=tokyonight\&hide_border=true)
 
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashraf120814/Ashraf120814/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashraf120814/Ashraf120814/output/github-contribution-grid-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/Ashraf120814/Ashraf120814/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</picture>
+
+</div>
 ---
 
 ## 📈 Contribution Graph
@@ -148,6 +160,6 @@ mohammadashraf121408@gmail.com
 </div>
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8B0000&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Ashraf120814&label=Profile%20Views&color=8B0000&style=for-the-badge" />
 
 </div>
