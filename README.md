@@ -10,11 +10,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Python;Generative+AI+%7C+n8n+Automation;Building+Digital+Experiences;Turning+Ideas+Into+Real+Products+%F0%9F%9A%80" />
 
 </div>
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:8B0000&height=220&section=header&text=MOHAMMAD%20ASHRAF&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20%26%20AUTOMATION&descAlignY=58&descSize=16" width="100%"/>
-
-</div>
 
 # 👋 Hey, I'm Mohammad Ashraf
 
